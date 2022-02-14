@@ -40,7 +40,7 @@
     "cheerio": "^0.22.0",
     "fibers": "^5.0.0",
     "handlebars": "^4.7.6",
-    "jstransformer-handlebars": "^1.1.0",
+    "jstransformer-handlebars": "^1.2.0",
     "junk": "^3.1.0",
     "lodash.defaultsdeep": "^4.6.1",
     "marked": "^1.2.7",
